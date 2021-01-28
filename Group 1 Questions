@@ -1,0 +1,12 @@
+Team 1:
+Hasib
+Andrew
+Fadil
+Walter
+
+Questions (From slides 1-5):
+ What's an exception?
+- How does a program deal with exceptions
+- What happens if an exception is ignored by the program?
+- What's included in the Stack Trace when exceptions are thrown?
+- what is the difference between an exception and a error?
